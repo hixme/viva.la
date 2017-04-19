@@ -1,7 +1,7 @@
 {
   "name": "viva",
   "version": "1.0.0",
-  "description": "Revolutionary Async Resolution",
+  "description": "Radical Async Resolution",
   "main": "./lib/index.js",
   "scripts": {
     "clean": "rimraf lib",
