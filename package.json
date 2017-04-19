@@ -1,5 +1,5 @@
 {
-  "name": "viva",
+  "name": "viva.la",
   "version": "0.0.1",
   "description": "Radical Async Resolution",
   "main": "./lib/index.js",
@@ -23,9 +23,10 @@
     "url": "git+https://github.com/hixme/viva.git"
   },
   "keywords": [
-    "middleware",
-    "connect",
-    "module",
+    "promises",
+    "resolution",
+    "object mapping",
+    "async",
     "node",
     "javascript"
   ],
